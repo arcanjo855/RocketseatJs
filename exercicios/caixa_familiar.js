@@ -18,7 +18,7 @@ let familia = {
 
 
 
-function somar(array) { // cara isso demorou pra entrar na mente
+function somar(array) { // cara isso demorou pra entrar na mente  
 
     let total = 0 
     for(let value of array) {   

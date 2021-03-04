@@ -1,0 +1,19 @@
+{
+  "name": "rocketseatjs",
+  "version": "1.0.0",
+  "description": "Fiz rocketseat e vou usar pra treinar/consultar",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/arcanjo855/RocketseatJs.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/arcanjo855/RocketseatJs/issues"
+  },
+  "homepage": "https://github.com/arcanjo855/RocketseatJs#readme"
+}

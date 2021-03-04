@@ -1,10 +1,6 @@
 // Array
 
-const animals = [
-  'Lion',
-  'Monkey',
-  'Cat',
-];
+const animals = ["Lion", "Monkey", "Cat"];
 
 // acessar valores
 // mostrar valores dentro do array *console.log(animals[0])

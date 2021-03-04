@@ -27,11 +27,11 @@
 */
 
 const student = {
-  name: 'Rafa',
-  age: 20,
-  stars: 2.2,
-  isSubscribed: true,
-  weight: 70,
+    name: "Rafa",
+    age: 20,
+    stars: 2.2,
+    isSubscribed: true,
+    weight: 70,
 };
 
 // console.log(`${student.name} de idade ${student.age} pesa ${student.weight} kg.`)
@@ -47,10 +47,7 @@ let students = [];
     6. Reatribua o valor da variavel acima, colocando dentro o objeto student da questão 4. (nao copia e colar o objeto, mas usar o objeto criado e inserir ele no array)
 */
 
-students = [
-  student,
-
-];
+students = [student];
 
 /*
     7. Coloque no console o valor da posição zero do Array acima
@@ -63,15 +60,12 @@ students = [
 */
 
 const john = {
-  name: 'John',
-  age: 33,
-  weight: 88,
-  isSubscribed: true,
+    name: "John",
+    age: 33,
+    weight: 88,
+    isSubscribed: true,
 };
-students = [
-  student,
-  john,
-];
+students = [student, john];
 
 console.log(students);
 

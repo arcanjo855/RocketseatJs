@@ -5,7 +5,7 @@
 
  */
 
-const phrase = 'Eu quero viver o Amor!';
-const myArray = phrase.split(' ');
-const phraseWithUnderscore = myArray.join('_');
+const phrase = "Eu quero viver o Amor!";
+const myArray = phrase.split(" ");
+const phraseWithUnderscore = myArray.join("_");
 console.log(phraseWithUnderscore);

@@ -3,8 +3,8 @@
 const total = 0;
 // parametros da função
 const sum = function (number1, number2) {
-  const total = number1 + number2;
-  return total;
+    const total = number1 + number2;
+    return total;
 };
 const number1 = 23;
 const number2 = 29;

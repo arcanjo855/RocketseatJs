@@ -1,7 +1,7 @@
 // arrow function
 
 const sayMyName = (name) => {
-  console.log(name);
+    console.log(name);
 };
 
-sayMyName('Rafa');
+sayMyName("Rafa");

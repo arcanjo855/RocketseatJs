@@ -1,15 +1,13 @@
 // callback function
 
 function sayMyName(name) {
-  console.log('antes de executar a função callback');
+    console.log("antes de executar a função callback");
 
-  name();
+    name();
 
-  console.log('depois de executar a call back');
+    console.log("depois de executar a call back");
 }
 
-sayMyName(
-  () => {
-    console.log('estou em uma callback');
-  },
-);
+sayMyName(() => {
+    console.log("estou em uma callback");
+});

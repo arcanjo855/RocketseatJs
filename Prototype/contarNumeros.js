@@ -2,7 +2,7 @@
 
 // Contar quantos caracteres temem uma palavra e quantos digitos tem um numero
 
-const word = 'paralelepipedo';
+const word = "paralelepipedo";
 
 console.log(word.length);
 const number = 6567;

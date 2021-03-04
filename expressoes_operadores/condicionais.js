@@ -18,6 +18,6 @@
 
 const age = 16;
 
-const canDriver = age >= 18 ? 'Can drive' : "Can't drive";
+const canDriver = age >= 18 ? "Can drive" : "Can't drive";
 
 console.log(canDriver);

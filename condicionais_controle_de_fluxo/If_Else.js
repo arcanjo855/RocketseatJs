@@ -19,9 +19,9 @@ const highTemperature = temperature >= 38;
 const mediumTemperature = temperature < 37.5 && temperature >= 37;
 
 if (highTemperature) {
-  console.log('Febre Alta');
+    console.log("Febre Alta");
 } else if (mediumTemperature) {
-  console.log('Febre moderada');
+    console.log("Febre moderada");
 } else {
-  console.log('Saudavel');
+    console.log("Saudavel");
 }

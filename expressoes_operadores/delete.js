@@ -5,8 +5,8 @@
 
 */
 const person = {
-  name: 'rafa',
-  age: 25,
+    name: "rafa",
+    age: 25,
 };
 delete person.age;
 

@@ -8,5 +8,5 @@
 
 */
 
-const fahren = '090';
-const celcius = '2092';
+const fahren = "090";
+const celcius = "2092";

@@ -40,4 +40,4 @@
 
 */
 
-console.log({} ? 'Verdadeiro' : 'Falso');
+console.log({} ? "Verdadeiro" : "Falso");

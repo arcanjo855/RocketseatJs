@@ -1,7 +1,7 @@
 // Operadores Aritimeticos
 
 // multiplicação *
-// console.log(2.3 * 3.3) 
+// console.log(2.3 * 3.3)
 
 // divisao /
 // console.log(276 / 2)
@@ -12,22 +12,20 @@
 // subtração -
 // console.log(32 - 98)
 
-
-
 // resto da divisao %
-let remainder
-remainder = 11 % 9
-//console.log(remainder)
+let remainder;
+remainder = 11 % 9;
+// console.log(remainder)
 
 // incremento ++
-let increment = 0
+const increment = 0;
 
-//console.log(increment)
+// console.log(increment)
 
 // decremento --
 
-let decrement = 0
+const decrement = 0;
 // console.log(--decrement)
 
 // exponencial **
-console.log(2 ** 7)
+console.log(2 ** 7);

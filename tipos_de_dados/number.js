@@ -1,4 +1,4 @@
-/* 
+/*
     Number
         *numeros
         33 // inteiros
@@ -6,4 +6,4 @@
         Nan // not a number
         infinity // infinito
 */
-console.log(12.5 / 3)
+console.log(12.5 / 3);

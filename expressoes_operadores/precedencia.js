@@ -13,4 +13,4 @@
 * assignment                =
 */
 
-console.log( (6 + 3) * 3) // resultado = 27
+console.log((6 + 3) * 3); // resultado = 27

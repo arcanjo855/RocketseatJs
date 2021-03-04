@@ -2,8 +2,8 @@
 
 // Contar quantos caracteres temem uma palavra e quantos digitos tem um numero
 
-let word = "paralelepipedo"
+const word = 'paralelepipedo';
 
-console.log(word.length)
-let number = 6567
-console.log(String(number).length)
+console.log(word.length);
+const number = 6567;
+console.log(String(number).length);

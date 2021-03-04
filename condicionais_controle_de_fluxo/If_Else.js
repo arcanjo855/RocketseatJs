@@ -1,7 +1,6 @@
 // if ... else
 
-/*let temperature = 37
-
+/* let temperature = 37
 
 if(temperature >= 37.5){
     console.log('febre alta')
@@ -15,14 +14,14 @@ if(temperature >= 37.5){
 
 // Assim é o recomendado
 
-let temperature = 37
-let highTemperature = temperature >= 38
-let mediumTemperature = temperature < 37.5 && temperature >= 37
+const temperature = 37;
+const highTemperature = temperature >= 38;
+const mediumTemperature = temperature < 37.5 && temperature >= 37;
 
-if(highTemperature) {
-    console.log('Febre Alta')
-} else if(mediumTemperature) {
-    console.log('Febre moderada')
-} else{
-    console.log('Saudavel')
+if (highTemperature) {
+  console.log('Febre Alta');
+} else if (mediumTemperature) {
+  console.log('Febre moderada');
+} else {
+  console.log('Saudavel');
 }

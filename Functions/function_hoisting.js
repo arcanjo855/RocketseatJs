@@ -1,7 +1,7 @@
 // function hoisting
 
-sayMyName()
+sayMyName();
 
-function sayMyName(){
-    console.log('Rafa')
+function sayMyName() {
+  console.log('Rafa');
 }

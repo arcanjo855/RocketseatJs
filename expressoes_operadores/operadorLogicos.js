@@ -1,10 +1,10 @@
 // operadores logicos (logical operators)
 
 // -2 valores booleanos,quandoverificados,
-// resultara em verdadeiro ou falso 
+// resultara em verdadeiro ou falso
 
-let pao = true
-let queijo = true
+const pao = true;
+const queijo = true;
 
 // AND &&   // so funciona se os 2 forem verdadeiros
 // console.log(pao && queijo)
@@ -15,4 +15,4 @@ let queijo = true
 // NOT !    // operador de negação, inverte os valores
 // console.log(!queijo)
 
-console.log(1900 % 30)
+console.log(1900 % 30);

@@ -1,4 +1,4 @@
-/* 
+/*
    Boolean
     * somente 2 valores
 

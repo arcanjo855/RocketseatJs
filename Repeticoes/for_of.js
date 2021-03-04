@@ -2,9 +2,9 @@
 
 // For...of
 
-let name = "Rafa"
-let names = ['joao', 'paulo', 'amanda']
+const name = 'Rafa';
+const names = ['joao', 'paulo', 'amanda'];
 
-for(let name of names){
-    console.log(name)
+for (const name of names) {
+  console.log(name);
 }

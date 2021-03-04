@@ -2,17 +2,17 @@
 
 // ira comparar valores e retornar um Boolean Como resposta
 
-let one = 1
-let two = 2
+const one = 1;
+const two = 2;
 
 // ==   igual
-//console.log( one == 1)
-//console.log( one == '1')
+// console.log( one == 1)
+// console.log( one == '1')
 
 // !=   diferente
-//console.log( one != two) // true
-//console.log( one != '1') // false
-//console.log( one != 1) // false
+// console.log( one != two) // true
+// console.log( one != '1') // false
+// console.log( one != 1) // false
 
 // ===  estritamente igual
 // console.log( one === '1') // false

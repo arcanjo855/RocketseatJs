@@ -1,9 +1,6 @@
-// Manipulando Array 
+// Manipulando Array
 
 // Criar Array com construtor
 
-let myArray = new Array(10)
-console.log(myArray)
-
-
-
+const myArray = new Array(10);
+console.log(myArray);

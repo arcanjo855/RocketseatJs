@@ -2,11 +2,7 @@
     Type conversion (typecasting) vs Type coersion
     */
 
-//console.log(Number('9') + 5)
-
-
-
-
+// console.log(Number('9') + 5)
 
 /*
 
@@ -22,7 +18,6 @@
     undefined
     NaN
 */
-
 
 // console.log( 0 ? 'verdadeiro' : ' false')
 
@@ -45,4 +40,4 @@
 
 */
 
-console.log( {} ? 'Verdadeiro' : 'Falso')
+console.log({} ? 'Verdadeiro' : 'Falso');

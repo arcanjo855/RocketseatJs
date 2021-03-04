@@ -1,8 +1,8 @@
 // 1. declare uma variavel de nome weight
-//var weight
+// var weight
 
 // 2. que tipo de dado é a variavel acima?
-//console.log(typeof weight)
+// console.log(typeof weight)
 
 /*
     3. Declare uma variável e atribua valores para cada um dos valores:
@@ -26,57 +26,54 @@
         <name> de idade <age> pesa <weight> kg.
 */
 
-let student = {
-    name: "Rafa",
-    age: 20,
-    stars: 2.2,
-    isSubscribed: true,
-    weight: 70
-}
+const student = {
+  name: 'Rafa',
+  age: 20,
+  stars: 2.2,
+  isSubscribed: true,
+  weight: 70,
+};
 
-
-//console.log(`${student.name} de idade ${student.age} pesa ${student.weight} kg.`)
-
+// console.log(`${student.name} de idade ${student.age} pesa ${student.weight} kg.`)
 
 /*
     5. declare uma variavel do tipo array, de nome students e atribua a ela nenhum valor, ou seja, somente o array vazio
 
     */
 
-    let students = []
+let students = [];
 
-/* 
+/*
     6. Reatribua o valor da variavel acima, colocando dentro o objeto student da questão 4. (nao copia e colar o objeto, mas usar o objeto criado e inserir ele no array)
 */
 
 students = [
-    student
-    
-]
+  student,
 
+];
 
-/* 
+/*
     7. Coloque no console o valor da posição zero do Array acima
 */
 
-//console.log(students[0])
+// console.log(students[0])
 
 /*
     8. Crie um novo student e coloque na posição 1 do Array students
 */
 
 const john = {
-    name:"John",
-    age: 33,
-    weight: 88,
-    isSubscribed: true
-}
+  name: 'John',
+  age: 33,
+  weight: 88,
+  isSubscribed: true,
+};
 students = [
-    student,
-    john
-]
+  student,
+  john,
+];
 
-console.log(students)
+console.log(students);
 
 /*
     9. Sem rodar o codigo responda qual é a resposta do codigo abaixo e porque? após sua resposta, rode o código e veja se vc acertou.
@@ -84,5 +81,5 @@ console.log(students)
     console.log(a)
     var a = 1
 */
-console.log(a)
-    var a = 1
+console.log(a);
+var a = 1;

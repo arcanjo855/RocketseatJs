@@ -8,8 +8,5 @@
 
 */
 
-let fahren = '090'
-let celcius = '2092'
-
-
-
+const fahren = '090';
+const celcius = '2092';

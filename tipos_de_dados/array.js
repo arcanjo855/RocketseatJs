@@ -6,4 +6,4 @@
     ["Rafa",20]
 */
 
-console.log(["leite", "ovos", 2, 5]);
+console.log(['leite', 'ovos', 2, 5]);

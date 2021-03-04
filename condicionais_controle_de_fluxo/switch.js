@@ -20,26 +20,26 @@ switch (expression) {
 // calculadora foda
 
 function calculadora(number1, operator, number2) {
-    let result = 0;
+  let result = 0;
 
-    switch (operator) {
-        case "+":
-            result = number1 + number2;
-            break;
-        case "-":
-            result = number1 - number2;
-            break;
-        case "*":
-            result = number1 * number2;
-            break;
-        case "/":
-            result = number1 / number2;
-            break;
-        default:
-            console.log("nao implementamos ainda");
-    }
+  switch (operator) {
+    case '+':
+      result = number1 + number2;
+      break;
+    case '-':
+      result = number1 - number2;
+      break;
+    case '*':
+      result = number1 * number2;
+      break;
+    case '/':
+      result = number1 / number2;
+      break;
+    default:
+      console.log('nao implementamos ainda');
+  }
 
-    return result;
+  return result;
 }
 
-console.log(calculadora(33, "-", 3));
+console.log(calculadora(33, '-', 3));

@@ -5,7 +5,7 @@
 
 let i = 490380938;
 while (i > 10) {
-    console.log(i);
+  console.log(i);
 
-    i /= 35;
+  i /= 35;
 }

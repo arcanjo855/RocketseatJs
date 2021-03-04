@@ -27,11 +27,11 @@
 */
 
 const student = {
-    name: "Rafa",
-    age: 20,
-    stars: 2.2,
-    isSubscribed: true,
-    weight: 70,
+  name: 'Rafa',
+  age: 20,
+  stars: 2.2,
+  isSubscribed: true,
+  weight: 70,
 };
 
 // console.log(`${student.name} de idade ${student.age} pesa ${student.weight} kg.`)
@@ -60,10 +60,10 @@ students = [student];
 */
 
 const john = {
-    name: "John",
-    age: 33,
-    weight: 88,
-    isSubscribed: true,
+  name: 'John',
+  age: 33,
+  weight: 88,
+  isSubscribed: true,
 };
 students = [student, john];
 

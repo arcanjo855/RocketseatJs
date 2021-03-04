@@ -1,12 +1,12 @@
 // Manipulando Array
 
-const techs = ["html", "css", "js"];
+const techs = ['html', 'css', 'js'];
 
 // adicionar um item no fim
-techs.push("nodejs");
+techs.push('nodejs');
 
 // adicionar no começo
-techs.unshift("sql");
+techs.unshift('sql');
 
 // remover do fim
 // techs.pop()
@@ -21,7 +21,7 @@ techs.unshift("sql");
 // techs.splice(1, 2)
 
 // encontrar a posição de um elemento no array
-const index = techs.indexOf("css");
+const index = techs.indexOf('css');
 techs.splice(index, 1);
 
 console.log(techs);

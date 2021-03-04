@@ -3,9 +3,9 @@
 // declaração da função
 // function statement
 function creatPhrases() {
-    console.log("Cara mt frase chata");
-    console.log("HEHEXD");
-    console.log("é os guri");
+  console.log('Cara mt frase chata');
+  console.log('HEHEXD');
+  console.log('é os guri');
 }
 
 // executar a função
